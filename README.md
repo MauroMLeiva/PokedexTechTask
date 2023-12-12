@@ -9,5 +9,7 @@ La aplicación fue desarrollada utilizando React y Ionic.
 
 Introducir en la consola los comandos:
 
-> npm install
-> npm run dev
+- npm install
+- npm run dev
+
+Luego, abrir en el navegador la dirección local que muestra la consola.
